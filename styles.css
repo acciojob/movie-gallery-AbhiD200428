@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin: 5px auto; 
+    display: block;   
+}
+
+.row {
+    margin-bottom: 15px;
+    text-align: center;
+}
